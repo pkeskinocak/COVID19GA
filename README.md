@@ -67,3 +67,11 @@ Figures used to generate all of plots and conclusions are provided in this [repo
 ### Cite the manuscript as:
 
 Keskinocak P, Oruc BE, Baxter A, Asplund J, Serban N (2020) The impact of social distancing on COVID19 spread: State of Georgia case study. [Manuscript.](/Manuscript/Community-level%20Covid-19%20Case%20Measurement%20and%20Intervention%20Version%201.pdf)
+
+### Additional Contributors: 
+
+The authors of this paper are thankful to state representatives for sharing multiple data sources from the cases confirmed in Georgia to date. The authors are also thankful to Melody Shellman, Hannah Lin, Ethan Channel, Pravara Harati, Zhuoting April Yu, and Christopher Stone for supporting various parts of the projects.
+
+### Sources of Funding and Support:
+
+The research was supported by the William W. George and by the Virginia C. and Joseph C. Mello endowments at Georgia Tech.
