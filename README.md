@@ -15,7 +15,7 @@ We developed an agent-based simulation model to project the infection spread. We
 </p>
 
 ## Setting
-The simulation study covered a six-month period, testing different social distancing scenarios, including baselines (no-intervention or school closure only) and combinations of shelter-in-place and voluntary quarantine with different timelines and compliance levels. The outcomes are compared at the state and community levels. Below are the descriptions for the intervention scenarios considered in this study along with their scenario number referred in the Results section of the [manuscript](/Manuscript/Community-level%20Covid-19%20Case%20Measurement%20and%20Intervention%20Version%201.pdf). 
+The simulation study covered a six-month period, testing different social distancing scenarios, including baselines (no-intervention or school closure only) and combinations of shelter-in-place and voluntary quarantine with different timelines and compliance levels. The outcomes are compared at the state and community levels. Below are the descriptions for the intervention scenarios considered in this study along with their scenario number referred in the Results section of the [manuscript](https://github.com/pkeskinocak/COVID19GA/blob/master/Manuscript/Community-level%20Covid-19%20Case%20Measurement%20and%20Intervention%20Version%201.pdf). 
 
 <p align="center">
 <img src="Figures/Fig1.png" alt="Intervention scenarios" width="600"/>
@@ -59,14 +59,14 @@ Three maps of Georgia at the county level recording the number of new cases per 
 Shelter-in-place followed by voluntary quarantine substantially reduce COVID19 infections, healthcare resource needs, and severe outcomes; delay the peak; and enable better preparedness. Time of the peak is projected to vary across locations, enabling reallocation of health system capacity. 
 
 ### Data: 
-Data used to generate all of plots and conclusions are provided in this [repository](/Data). 
+Data used to generate all of plots and conclusions are provided in this [repository](https://github.com/pkeskinocak/COVID19GA/tree/master/Data). 
 
 ### Figures: 
-Figures used to generate all of plots and conclusions are provided in this [repository](/figures). 
+Figures used to generate all of plots and conclusions are provided in this [repository](https://github.com/pkeskinocak/COVID19GA/tree/master/Figures). 
 
 ### Cite the manuscript as:
 
-Keskinocak P, Oruc BE, Baxter A, Asplund J, Serban N (2020) The impact of social distancing on COVID19 spread: State of Georgia case study. [Manuscript.](/Manuscript/Community-level%20Covid-19%20Case%20Measurement%20and%20Intervention%20Version%201.pdf)
+Keskinocak P, Oruc BE, Baxter A, Asplund J, Serban N (2020) The impact of social distancing on COVID19 spread: State of Georgia case study. [Manuscript.](https://github.com/pkeskinocak/COVID19GA/blob/master/Manuscript/Community-level%20Covid-19%20Case%20Measurement%20and%20Intervention%20Version%201.pdf)
 
 ### Additional Contributors: 
 
